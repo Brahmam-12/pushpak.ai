@@ -1,0 +1,45 @@
+.user-data-rs {
+    display: inline-grid;
+}
+
+.user-data-lf {
+    display: inline-grid;
+}
+
+form.app-register {margin-top: -40px;}
+
+p {
+    font-size: x-large;
+    height: 23px;
+    color: #11113e;
+}
+.show {
+    
+        /* border-radius: 10px; */
+        margin-left: 11rem;
+        /* border: 1px solid cadetblue; */
+        width: 60px;
+        margin-top: -34px;
+        cursor: pointer;
+    
+}
+button.signin-button {
+    height: 35px;
+    width: 73px;
+    border-radius: 11px;
+    margin: 0 0 0 -163px;
+}
+.register-page-LP {
+    margin-top: -33px;
+}
+button.register {
+    margin: 26px 0px 0px 166px;
+    height: 33px;
+    width: 73px;
+    border-radius: 12px;
+}
+input{
+    font-size: larger;
+    font-style: oblique;
+    font-family: system-ui;
+}

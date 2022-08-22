@@ -1,0 +1,52 @@
+.sign-in-email {
+    display: grid;
+    width: 243px;
+    /* text-align: center; */
+    /* align-items: center; */
+    height: 81px;
+}
+
+
+.sign-in-password {
+    display: grid;
+    width: 243px;
+    height: 81px;
+    margin-top: 14px;
+}
+
+label {
+    font-size: larger;
+    text-align: initial;
+}
+
+input {
+    border-radius: 8px;
+    height: 36px;
+    font-size: larger;
+    font-style: oblique;
+    font-family: system-ui;
+}
+.eye-icon {
+    /* border-radius: 10px; */
+    margin-left: 11rem;
+    /* border: 1px solid cadetblue; */
+    width: 60px;
+    margin-top: -37px;
+    cursor: pointer;
+}
+button.signin {
+    height: 38px;
+    border-radius: 12px;
+    width: 78px;
+    border: 1px solid;
+    font-size: unset;
+}
+button.signup {
+    margin-top: 12px;
+    height: 38px;
+    border-radius: 12px;
+    width: 78px;
+    border: 1px solid;
+    margin-left: 82px;
+    font-size: unset;
+}
